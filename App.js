@@ -1,0 +1,1 @@
+console.log("Teste novo app JS");
